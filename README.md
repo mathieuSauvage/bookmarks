@@ -110,6 +110,8 @@ with Levels of Detail](http://wscg.zcu.cz/wscg2004/Papers_2004_Full/J89.pdf)
 ## **mental Ray**  
 [puppet](http://www.puppet.cgtalk.ru/download/buffer_writer_e.shtml)  
 [jan sandstrom](http://www.pixero.com/downloads_mr.html)  
+[3Dnoise without texture slide with mental ray](http://www.djx.com.au/blog/2008/07/21/particlesamplerinfo-smoke/)  
+
 
 ## **anatomie**  
 [anatomie ref site](http://www.artnatomia.net/uk/index.html)  
@@ -178,3 +180,9 @@ with Levels of Detail](http://wscg.zcu.cz/wscg2004/Papers_2004_Full/J89.pdf)
 [openSceneGraph](http://www-sop.inria.fr/geometrica/publications/Author/BOISSONNAT-JD.html)  
 [Horde3D](http://www.horde3d.org/license.html)  
 [G3D](http://g3d.sourceforge.net/)  
+
+## **CG companies and job**  
+[2pop](http://www.creativeplanetnetwork.com/forums/forumdisplay.php?180-Jobs)  
+[OLM](http://www.olm.co.jp/olm/)  
+[Square Visualworks](http://www.square-enix.com/jp/recruit/career/job/game/vw_index.html)  
+[Omnibus](http://www.omnibusjp.com/#/recruit)  
