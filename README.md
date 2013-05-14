@@ -15,7 +15,8 @@
 [Using Distance Maps for Accurate Surface Representation in Sampled Volumes](http://www.merl.com/reports/docs/TR99-25.pdf)  
 [A Survey of GPU-Based Volume Rendering of Unstructured Grids](http://www.sci.utah.edu/~stevec/papers/gputet_survey.pdf)  
 [raytracing papers of ingo Wald](http://www.sci.utah.edu/~wald/Publications/)  
-[Michael Bang Nielsen papers (fluids etc)](http://www.daimi.au.dk/~bang/)
+[Michael Bang Nielsen papers (fluids etc)](http://www.daimi.au.dk/~bang/)  
+[Planning Short Paths with Clearance using Explicit Corridors](http://www.staff.science.uu.nl/~gerae101/motion_planning/ecm.html)  
 
 ## **noise**  
 [Implementing imroved perlin noise](http://http.developer.nvidia.com/GPUGems/gpugems_ch05.html)  
@@ -25,9 +26,11 @@
 ## **hairs**  
 [A Mass Spring Model for Hair Simulation (+interpolation)](http://physbam.stanford.edu/~aselle/papers/9/hair.pdf)  
 [rendering generalized cylinders with paintstokes](http://www.rhythm.com/~ivan/pdfs/gi98.pdf)  
-[inria A Practical Self-Shadowing Algorithm for Interactive Hair Animation](http://www.rhythm.com/~ivan/pdfs/gi98.pdf)
+[inria A Practical Self-Shadowing Algorithm for Interactive Hair Animation](http://www.rhythm.com/~ivan/pdfs/gi98.pdf)  
+[Scattered Data Interpolation and Approximation for Computer Graphics](http://hg.valeuf.org/hg/hgwebdir.cgi/KAIST/raw-file/b05a9eb18c76/CS680/Hair%20Rendering/lewis-sdi.pdf)  
 
 ## **splines, surfaces and curves**  
+[introduction to catmull-rom splines](http://www.mvps.org/directx/articles/catmull/)  
 [bezier fast algorithm](http://www.niksula.cs.hut.fi/~hkankaan/Homepages/bezierfast.html)  
 [Bezier Curves and Surfaces](http://www.gamedev.net/page/resources/_/technical/graphics-programming-and-theory/bezier-curves-and-surfaces-r1808)  
 
@@ -113,6 +116,11 @@ with Levels of Detail](http://wscg.zcu.cz/wscg2004/Papers_2004_Full/J89.pdf)
 [jan sandstrom](http://www.pixero.com/downloads_mr.html)  
 [3Dnoise without texture slide with mental ray](http://www.djx.com.au/blog/2008/07/21/particlesamplerinfo-smoke/)  
 
+## **story**  
+[pixar 22 rules of storytelling](http://aerogrammestudio.com/2013/03/07/pixars-22-rules-of-storytelling/)  
+[tips for writing characters](http://www.fictionfactor.com/characters.html)  
+[scenario forum](http://forum.cineastes.com/scenario-f28/)  
+
 ## **anatomie**  
 [anatomie ref site](http://www.artnatomia.net/uk/index.html)  
 [perfect human face](http://theperfecthumanface.blogspot.jp/)  
@@ -174,8 +182,13 @@ with Levels of Detail](http://wscg.zcu.cz/wscg2004/Papers_2004_Full/J89.pdf)
 [Vast scalable voronoi P2P network](http://vast.sourceforge.net/index.php)  
 [A Distributed Architecture for Multiplayer Interactive Applications on the Internet](http://www.cs.ubc.ca/~krasic/cpsc538a/papers/diot99distributed.pdf)  
 
+## **OpenCL**  
+[intro to OpenCL](http://developer.amd.com/tools-and-sdks/heterogeneous-computing/amd-accelerated-parallel-processing-app-sdk/introductory-tutorial-to-opencl/)  
+
 ## **Compression**  
 [FPZip float compression](https://computation.llnl.gov/casc/fpzip/fpzip.html)  
+[high speed double precision](http://www.csl.cornell.edu/~burtscher/research/FPC/datasets.html)  
+[Lossless Compression of Predicted Floating-Point Values](http://www.cs.unc.edu/~isenburg/lcpfpv/)  
 
 ## **GIT**  
 [branching model and workflow](http://nvie.com/posts/a-successful-git-branching-model/)  
@@ -195,6 +208,14 @@ with Levels of Detail](http://wscg.zcu.cz/wscg2004/Papers_2004_Full/J89.pdf)
 [Using dictionnary to give parameters to function](http://stackoverflow.com/questions/334655/passing-a-dictionary-to-a-function-in-python-as-keyword-parameters)  
 [log system of python](http://inventwithpython.com/blog/2012/04/06/stop-using-print-for-debugging-a-5-minute-quickstart-guide-to-pythons-logging-module/)  
 
+## **regular expression**  
+[Regular Expression Cheat Sheet](http://regexlib.com/CheatSheet.aspx?AspxAutoDetectCookieSupport=1)
+
+## **interesting libraries**  
+[CAMP](https://github.com/tegesoft/camp)  
+[openFrameworks](http://www.openframeworks.cc/download/)  
+[ANN Approximate Nearest Neighbor](http://www.cs.umd.edu/~mount/ANN/)  
+
 ## **3D engines**  
 [openSceneGraph](http://www-sop.inria.fr/geometrica/publications/Author/BOISSONNAT-JD.html)  
 [Horde3D](http://www.horde3d.org/license.html)  
@@ -204,15 +225,27 @@ with Levels of Detail](http://wscg.zcu.cz/wscg2004/Papers_2004_Full/J89.pdf)
 [nuke wave expression](http://davemne.wordpress.com/2011/05/16/nuke-wave-expressions-to-copy-and-paste/)  
 [2D deformation pass, water droplets](http://particleeffectstips.blogspot.jp/2011/10/uv-pass-for-water-droplets.html)  
 [external control of nuke](https://github.com/Nvizible/NukeExternalControl)  
+[making a nuke gizmo](http://www.digitalgypsy.com/vfxlog/archives/2007/10/tip-of-the-week-making-a-nuke.php)  
 
-## **maya**  
+## **effects**  
+[cgsociety nuke explosion thread](http://forums.cgsociety.org/showthread.php?f=86&t=757114&page=8&pp=15)  
+[cgsociety Fluid Effect versus Fume thread](http://forums.cgsociety.org/showthread.php?f=86&t=741591&page=12&pp=15)  
+[particle tips with interesting hardware motion vector calculation](http://particleeffectstips.blogspot.jp/)  
+[more fun with maya fluid thread](http://forums.cgsociety.org/showthread.php?t=871479)  
 [particleCloud and fluid mixing](http://www.creativecrash.com/forums/fluids/topics/depth-sort-with-fluids-and-particles)  
+
+## **misc Cg ressources**  
+[blog de fevrier dorian](http://www.fevrierdorian.com/blog/)  
 
 ## **CG companies and job**  
 [2pop](http://www.creativeplanetnetwork.com/forums/forumdisplay.php?180-Jobs)  
 [OLM](http://www.olm.co.jp/olm/)  
 [Square Visualworks](http://www.square-enix.com/jp/recruit/career/job/game/vw_index.html)  
 [Omnibus](http://www.omnibusjp.com/#/recruit)  
+[Marza](http://www.marza.com/en/recruit/)  
 
 ## **website CMS**  
 [scriptogr](http://scriptogr.am/)  
+
+## **markdown**  
+[markdown the ins and outs](http://net.tutsplus.com/tutorials/tools-and-tips/markdown-the-ins-and-outs/)  
