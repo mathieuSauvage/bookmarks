@@ -1,6 +1,5 @@
-bookmarks
-
 ## **papers sources**  
+[nvidia matthias mueller](Nvidia Fluid http://www.matthiasmueller.info/)  
 [visual media lab papers](http://vml.kaist.ac.kr/research.html)  
 [computer graphic lab of zurich](http://graphics.ethz.ch/publications/papers/papers.php)  
 [kunzhou many interesting researchs](http://kunzhou.net/#renderants)  
@@ -42,6 +41,7 @@ bookmarks
 [hand tracking](http://www.ri.cmu.edu/research_project_detail.html?project_id=620&menu_id=261)  
 
 ## **cg algo**  
+[Dictionary of Algorithms and Data Structures](http://xlinux.nist.gov/dads/)  
 [FAQ CG](http://www.faqs.org/faqs/graphics/algorithms-faq/)  
 [Provably Good Surface Sampling and Approximation](http://graphics.stanford.edu/courses/cs468-05-winter/Papers/Oudot_Boissonnat/oudot_boissonnat_SGP.pdf)  
 [marching cube](http://www.exaflop.org/docs/marchcubes/)  
@@ -106,15 +106,16 @@ with Levels of Detail](http://wscg.zcu.cz/wscg2004/Papers_2004_Full/J89.pdf)
 [Skinning Mesh Animations](http://graphics.cs.cmu.edu/projects/sma/jamesTwigg_SMA.pdf)  
 [Automatic Rigging and Animation of 3D Characters](http://people.csail.mit.edu/jovan/assets/papers/baran-2007-ara.pdf)  
 [FastLSM: Fast Lattice Shape Matching for Robust Real-Time Deformation](http://www.alecrivers.com/fastlsm/)  
+[elasticity skinning paper](http://pages.cs.wisc.edu/~sifakis/papers/elasticity_skinning.pdf)  
 
 ## **mental Ray**  
 [puppet](http://www.puppet.cgtalk.ru/download/buffer_writer_e.shtml)  
 [jan sandstrom](http://www.pixero.com/downloads_mr.html)  
 [3Dnoise without texture slide with mental ray](http://www.djx.com.au/blog/2008/07/21/particlesamplerinfo-smoke/)  
 
-
 ## **anatomie**  
 [anatomie ref site](http://www.artnatomia.net/uk/index.html)  
+[perfect human face](http://theperfecthumanface.blogspot.jp/)  
 
 ## **polygonal libraries**  
 [GTS](http://www.ri.cmu.edu/research_project_detail.html?project_id=620&menu_id=261)  
@@ -166,23 +167,52 @@ with Levels of Detail](http://wscg.zcu.cz/wscg2004/Papers_2004_Full/J89.pdf)
 [building a million particle system](http://www.gamasutra.com/view/feature/2122/building_a_millionparticle_system.php)  
 [building an advanced particle system](http://www.gamasutra.com/view/feature/3157/building_an_advanced_particle_.php)  
 [paul nettle website](http://www.unchainedgeometry.com/jbloom/pdf/ref-frames.pdf)  
+[wildbunny a lots of physic ressource](http://www.wildbunny.co.uk/blog/)  
+[water and dynamic rain in Remember Me video game](http://seblagarde.wordpress.com/2012/12/27/water-drop-2a-dynamic-rain-and-its-effects/)  
 
 ## **P2P**  
 [Vast scalable voronoi P2P network](http://vast.sourceforge.net/index.php)  
 [A Distributed Architecture for Multiplayer Interactive Applications on the Internet](http://www.cs.ubc.ca/~krasic/cpsc538a/papers/diot99distributed.pdf)  
+
+## **Compression**  
+[FPZip float compression](https://computation.llnl.gov/casc/fpzip/fpzip.html)  
+
+## **GIT**  
+[branching model and workflow](http://nvie.com/posts/a-successful-git-branching-model/)  
+[how to use Git](http://glennstovall.com/blog/2013/03/15/how-i-use-git/)  
 
 ## **PHP**  
 [php snippets](http://www.destrucsaweb.com/commun/liste_ressources.php)  
 [php debutant](http://www.phpdebutant.org/article113.php)  
 [browser en php](http://www.phpcs.com/codes/BROWSER-PHP_36959.aspx)  
 
+## **QT**  
+[Qt Gui](http://www.commandprompt.com/community/pyqt/x2976)  
+[PyQt Stuff](http://www.delicious.com/tag/pyqt)  
+
+## **Python**  
+[Win32 how do I](http://timgolden.me.uk/python/win32_how_do_i.html)  
+[Using dictionnary to give parameters to function](http://stackoverflow.com/questions/334655/passing-a-dictionary-to-a-function-in-python-as-keyword-parameters)  
+[log system of python](http://inventwithpython.com/blog/2012/04/06/stop-using-print-for-debugging-a-5-minute-quickstart-guide-to-pythons-logging-module/)  
+
 ## **3D engines**  
 [openSceneGraph](http://www-sop.inria.fr/geometrica/publications/Author/BOISSONNAT-JD.html)  
 [Horde3D](http://www.horde3d.org/license.html)  
 [G3D](http://g3d.sourceforge.net/)  
+
+## **nuke**  
+[nuke wave expression](http://davemne.wordpress.com/2011/05/16/nuke-wave-expressions-to-copy-and-paste/)  
+[2D deformation pass, water droplets](http://particleeffectstips.blogspot.jp/2011/10/uv-pass-for-water-droplets.html)  
+[external control of nuke](https://github.com/Nvizible/NukeExternalControl)  
+
+## **maya**  
+[particleCloud and fluid mixing](http://www.creativecrash.com/forums/fluids/topics/depth-sort-with-fluids-and-particles)  
 
 ## **CG companies and job**  
 [2pop](http://www.creativeplanetnetwork.com/forums/forumdisplay.php?180-Jobs)  
 [OLM](http://www.olm.co.jp/olm/)  
 [Square Visualworks](http://www.square-enix.com/jp/recruit/career/job/game/vw_index.html)  
 [Omnibus](http://www.omnibusjp.com/#/recruit)  
+
+## **website CMS**  
+[scriptogr](http://scriptogr.am/)  
