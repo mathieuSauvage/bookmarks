@@ -40,6 +40,9 @@
 [big fast crowd on ps3](http://www.research.scea.com/pscrowd/PSCrowdSandbox2006.pdf)  
 [simulating crowd motion using behavioural animation](http://www.kolve.com/thesis/thesis.htm)  
 
+## **Path extrusion**  
+[double reflection method for extrusion of frame along path](http://research.microsoft.com/en-us/um/people/yangliu/publication/computation%20of%20rotation%20minimizing%20frames.pdf)  
+
 ## **tracking**  
 [hand tracking](http://www.ri.cmu.edu/research_project_detail.html?project_id=620&menu_id=261)  
 
