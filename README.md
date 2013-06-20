@@ -61,6 +61,8 @@
 [Complex Skeletal Implicit Surfaces
 with Levels of Detail](http://wscg.zcu.cz/wscg2004/Papers_2004_Full/J89.pdf)  
 [Interpolating and Approximating Implicit Surfaces from Polygon Soup](http://graphics.berkeley.edu/papers/Shen-IAI-2004-08/)  
+[generating Perpendicular vector or frame with one vector](http://blog.selfshadow.com/2011/10/17/perp-vectors/)  
+
 ## **painting style**  
 [realtime ink simulation](http://visgraph.cs.ust.hk/MoXi/)  
 [Real-Time Pen-and-Ink Illustration of Landscapes](http://graphics.uni-konstanz.de/publikationen/2006/pen_and_ink_illustration/Coconu%20et%20al.%20--%20Real-Time%20Pen-and-Ink%20Illustration%20of%20Landscapes.pdf)  
