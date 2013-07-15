@@ -244,6 +244,7 @@ with Levels of Detail](http://wscg.zcu.cz/wscg2004/Papers_2004_Full/J89.pdf)
 
 ## **CG companies and job**  
 [2pop](http://www.creativeplanetnetwork.com/forums/forumdisplay.php?180-Jobs)  
+[cgworld (japan jobs)](http://cgworld.jp/jobs/)  
 [OLM](http://www.olm.co.jp/olm/)  
 [Square Visualworks](http://www.square-enix.com/jp/recruit/career/job/game/vw_index.html)  
 [Omnibus](http://www.omnibusjp.com/#/recruit)  
