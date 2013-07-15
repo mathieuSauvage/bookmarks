@@ -20,6 +20,7 @@
 
 ## **noise**  
 [Implementing imroved perlin noise](http://http.developer.nvidia.com/GPUGems/gpugems_ch05.html)  
+[simplex noise, Eshelman implementation](http://www.6by9.net/simplex-noise-for-c-and-python/)  
 [random number distribution](http://www.gamedev.net/topic/486959-random-numbers-distribution/)  
 [random point on surface](http://www.gamedev.net/topic/504959-random-point-on-a-surface/)  
 
