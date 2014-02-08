@@ -197,6 +197,7 @@ with Levels of Detail](http://wscg.zcu.cz/wscg2004/Papers_2004_Full/J89.pdf)
 [Lossless Compression of Predicted Floating-Point Values](http://www.cs.unc.edu/~isenburg/lcpfpv/)  
 
 ## **GIT**  
+[cheat sheet](http://www.cheat-sheets.org/saved-copy/git-cheat-sheet.svg)  
 [branching model and workflow](http://nvie.com/posts/a-successful-git-branching-model/)  
 [how to use Git](http://glennstovall.com/blog/2013/03/15/how-i-use-git/)  
 
@@ -214,6 +215,9 @@ with Levels of Detail](http://wscg.zcu.cz/wscg2004/Papers_2004_Full/J89.pdf)
 [Win32 how do I](http://timgolden.me.uk/python/win32_how_do_i.html)  
 [Using dictionnary to give parameters to function](http://stackoverflow.com/questions/334655/passing-a-dictionary-to-a-function-in-python-as-keyword-parameters)  
 [log system of python](http://inventwithpython.com/blog/2012/04/06/stop-using-print-for-debugging-a-5-minute-quickstart-guide-to-pythons-logging-module/)  
+
+## **OSX**  
+[command line cheat sheet](http://www.pixelbeat.org/cmdline.html)  
 
 ## **regular expression**  
 [Regular Expression Cheat Sheet](http://regexlib.com/CheatSheet.aspx?AspxAutoDetectCookieSupport=1)
