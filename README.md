@@ -210,6 +210,7 @@ with Levels of Detail](http://wscg.zcu.cz/wscg2004/Papers_2004_Full/J89.pdf)
 [PyQt Stuff](http://www.delicious.com/tag/pyqt)  
 
 ## **Python**  
+[cheat sheet](http://www.cheat-sheets.org/saved-copy/PQRC-2.4-A4-latest.pdf)  
 [Win32 how do I](http://timgolden.me.uk/python/win32_how_do_i.html)  
 [Using dictionnary to give parameters to function](http://stackoverflow.com/questions/334655/passing-a-dictionary-to-a-function-in-python-as-keyword-parameters)  
 [log system of python](http://inventwithpython.com/blog/2012/04/06/stop-using-print-for-debugging-a-5-minute-quickstart-guide-to-pythons-logging-module/)  
