@@ -59,10 +59,10 @@
 [distance point a un plan](http://mathworld.wolfram.com/Point-LineDistance3-Dimensional.html)  
 [nearest point on line](http://www.gamedev.net/topic/185204-nearest-point-on-line/)  
 [implicit surface for geometric modeling and computer graphics](http://zach.in.tu-clausthal.de/teaching/cg2_07/literatur/implicit_surfaces_siggraph96_course.pdf)  
-[Complex Skeletal Implicit Surfaces
-with Levels of Detail](http://wscg.zcu.cz/wscg2004/Papers_2004_Full/J89.pdf)  
+[Complex Skeletal Implicit Surfaces with Levels of Detail](http://wscg.zcu.cz/wscg2004/Papers_2004_Full/J89.pdf)  
 [Interpolating and Approximating Implicit Surfaces from Polygon Soup](http://graphics.berkeley.edu/papers/Shen-IAI-2004-08/)  
 [generating Perpendicular vector or frame with one vector](http://blog.selfshadow.com/2011/10/17/perp-vectors/)  
+[the Journal of Computer Graphics Techniques](http://jcgt.org/read.html)  
 
 ## **painting style**  
 [realtime ink simulation](http://visgraph.cs.ust.hk/MoXi/)  
@@ -131,6 +131,16 @@ with Levels of Detail](http://wscg.zcu.cz/wscg2004/Papers_2004_Full/J89.pdf)
 [anatomie ref site](http://www.artnatomia.net/uk/index.html)  
 [perfect human face](http://theperfecthumanface.blogspot.jp/)  
 
+## **Terrain, Voxel and Polygonisation**  
+[snarfed renderer](http://snarfed.org/voxel)  
+[voxlap](http://www.advsys.net/ken/voxlap/voxlap05.htm)  
+[fast scene voxelization and application](http://artis.imag.fr/Publications/2006/ED06/voxels05-final.pdf)  
+[PolyVox library](http://www.volumesoffun.com/phpBB3/)  
+[Meshing articles](http://0fps.net/2012/07/12/smooth-voxel-terrain-part-2/)  
+[Dual contour paper](http://www.frankpetterson.com/publications/dualcontour/dualcontour.pdf)  
+[Noise functions for terrain](http://accidentalnoise.sourceforge.net/examples.html)  
+[Ressources multiples techniques](http://www.iquilezles.org/www/index.htm)  
+
 ## **polygonal libraries**  
 [GTS](http://www.ri.cmu.edu/research_project_detail.html?project_id=620&menu_id=261)  
 
@@ -139,11 +149,6 @@ with Levels of Detail](http://wscg.zcu.cz/wscg2004/Papers_2004_Full/J89.pdf)
 
 ## **delaunay**  
 [GEOMPACK](http://people.sc.fsu.edu/~jburkardt/cpp_src/geompack/geompack.html)  
-
-## **voxels**  
-[snarfed renderer](http://snarfed.org/voxel)  
-[voxlap](http://www.advsys.net/ken/voxlap/voxlap05.htm)  
-[fast scene voxelization and application](http://artis.imag.fr/Publications/2006/ED06/voxels05-final.pdf)  
 
 ## **Wiimote programming**  
 [Johnny Chung Lee projects](http://johnnylee.net/projects/wii/)  
@@ -227,10 +232,27 @@ with Levels of Detail](http://wscg.zcu.cz/wscg2004/Papers_2004_Full/J89.pdf)
 [openFrameworks](http://www.openframeworks.cc/download/)  
 [ANN Approximate Nearest Neighbor](http://www.cs.umd.edu/~mount/ANN/)  
 
+## **networking libraries**  
+[Raknet (not free but not expensive)](http://www.jenkinssoftware.com/)  
+[enet (free)](http://enet.bespin.org/)  
+
+## **Unity Tutorials**
+[Tutorial on intro to networking](http://vimeo.com/33996023)  
+[Unity multiplayer Tutorial](http://fr.scribd.com/doc/38199728/Multi-Player-Tutorial)  
+[Unity networking; the Zero to Hero guide](http://fr.scribd.com/doc/38400039/M2H-Unity-Networking-Tutorial)  
+[Machilli Unity Networking](http://machilli.com/index.php/tutorials/2-unity-networking)  
+[Unity FPS Networking 1](http://www.youtube.com/watch?v=Kk9JcxQi05s)  
+[Unity FPS Networking 2](http://www.youtube.com/watch?v=4pRCICR7PXY)  
+[How to create an online multiplayer](http://www.paladinstudios.com/2013/07/10/how-to-create-an-online-multiplayer-game-with-unity/)  
+
 ## **3D engines**  
 [openSceneGraph](http://www-sop.inria.fr/geometrica/publications/Author/BOISSONNAT-JD.html)  
 [Horde3D](http://www.horde3d.org/license.html)  
 [G3D](http://g3d.sourceforge.net/)  
+[Rayne](http://rayne3d.com/)  
+
+## **Free Renderer**  
+[mitsuba Physically based renderer](http://www.mitsuba-renderer.org/)  
 
 ## **nuke**  
 [nuke wave expression](http://davemne.wordpress.com/2011/05/16/nuke-wave-expressions-to-copy-and-paste/)  
