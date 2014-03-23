@@ -96,6 +96,7 @@
 [energy in spring](http://www.gamedev.net/topic/313559-energy-in-a-spring-mass-system/)  
 [rk4 spring system](http://www.gamedev.net/topic/387336-rk4-for-a-mass-spring-system/)  
 [single spring system](http://www.myphysicslab.com/spring1.html)  
+[Fluid simulation for video Games (intel)](http://software.intel.com/en-us/articles/fluid-simulation-for-video-games-part-3/)  
 
 ## **collisions**  
 [collisions with ellipsoids](http://www.gamedev.net/page/resources/_/technical/game-programming/general-collision-detection-for-games-using-ell-r1026)  
@@ -204,7 +205,9 @@
 ## **GIT**  
 [cheat sheet](http://www.cheat-sheets.org/saved-copy/git-cheat-sheet.svg)  
 [branching model and workflow](http://nvie.com/posts/a-successful-git-branching-model/)  
-[how to use Git](http://glennstovall.com/blog/2013/03/15/how-i-use-git/)  
+[how to use Git](http://glennstovall.com/blog/2013/03/15/how-i-use-git/) 
+[learn Git branching](http://pcottle.github.io/learnGitBranching/)  
+[Visualizing Git concepts with D3](http://www.wei-wang.com/ExplainGitWithD3/#)   
 
 ## **PHP**  
 [php snippets](http://www.destrucsaweb.com/commun/liste_ressources.php)  
@@ -220,9 +223,11 @@
 [Win32 how do I](http://timgolden.me.uk/python/win32_how_do_i.html)  
 [Using dictionnary to give parameters to function](http://stackoverflow.com/questions/334655/passing-a-dictionary-to-a-function-in-python-as-keyword-parameters)  
 [log system of python](http://inventwithpython.com/blog/2012/04/06/stop-using-print-for-debugging-a-5-minute-quickstart-guide-to-pythons-logging-module/)  
+[Game scripting in Python](https://docs.google.com/viewer?a=v&q=cache:wtRadIzcdR4J:https://learn.it.uts.edu.au/31002/support/dawson02gdc.PDF+&hl=en&pid=bl&srcid=ADGEESgcevYrMwuw7SWJ2jkdMS0CJg-_pW-RS5dJHU8zBdAnvDygn2Vmw11qH1P_MtyZT-yoqJR-E8kf3TzPJmnM2N9O0OCxTlLvCkdikd2H23v50f9trRiC_OQUVR_QEJ0pC_qbgn-M&sig=AHIEtbSGUZqBGi6rHax8sfX1MTWTWmwoOg)  
 
 ## **OSX**  
-[command line cheat sheet](http://www.pixelbeat.org/cmdline.html)  
+[command line cheat sheet](http://www.pixelbeat.org/cmdline.html) 
+[Rsync sync 2 ways](http://stackoverflow.com/questions/2936627/two-way-sync-with-rsync)   
 
 ## **regular expression**  
 [Regular Expression Cheat Sheet](http://regexlib.com/CheatSheet.aspx?AspxAutoDetectCookieSupport=1)
@@ -253,6 +258,7 @@
 
 ## **Free Renderer**  
 [mitsuba Physically based renderer](http://www.mitsuba-renderer.org/)  
+[Lux Render](http://www.luxrender.net/en_GB/index)  
 
 ## **nuke**  
 [nuke wave expression](http://davemne.wordpress.com/2011/05/16/nuke-wave-expressions-to-copy-and-paste/)  
@@ -260,12 +266,18 @@
 [external control of nuke](https://github.com/Nvizible/NukeExternalControl)  
 [making a nuke gizmo](http://www.digitalgypsy.com/vfxlog/archives/2007/10/tip-of-the-week-making-a-nuke.php)  
 
+## **maya**  
+[vertex cache system script](https://sites.google.com/site/adamvanner/scripts-and-tools/maya-world-space-mesh-cache)  
+
 ## **effects**  
 [cgsociety nuke explosion thread](http://forums.cgsociety.org/showthread.php?f=86&t=757114&page=8&pp=15)  
 [cgsociety Fluid Effect versus Fume thread](http://forums.cgsociety.org/showthread.php?f=86&t=741591&page=12&pp=15)  
 [particle tips with interesting hardware motion vector calculation](http://particleeffectstips.blogspot.jp/)  
 [more fun with maya fluid thread](http://forums.cgsociety.org/showthread.php?t=871479)  
 [particleCloud and fluid mixing](http://www.creativecrash.com/forums/fluids/topics/depth-sort-with-fluids-and-particles)  
+
+## **Cg Tools, Softwares, libs**  
+[Coalition render manager](https://code.google.com/p/coalition/)  
 
 ## **misc Cg ressources**  
 [blog de fevrier dorian](http://www.fevrierdorian.com/blog/)  
@@ -283,3 +295,6 @@
 
 ## **markdown**  
 [markdown the ins and outs](http://net.tutsplus.com/tutorials/tools-and-tips/markdown-the-ins-and-outs/)  
+
+## **japanese life things**  
+[CV pdf](http://www.jobci.com/download/)  
