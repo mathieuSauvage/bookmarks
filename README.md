@@ -34,6 +34,7 @@
 [introduction to catmull-rom splines](http://www.mvps.org/directx/articles/catmull/)  
 [bezier fast algorithm](http://www.niksula.cs.hut.fi/~hkankaan/Homepages/bezierfast.html)  
 [Bezier Curves and Surfaces](http://www.gamedev.net/page/resources/_/technical/graphics-programming-and-theory/bezier-curves-and-surfaces-r1808)  
+[Normal Vector and Curvature](http://www.cs.mtu.edu/~shene/COURSES/cs3621/NOTES/curves/normal.html)  
 
 ## **steering behavior, crowd**  
 [Steering Behaviors basics](http://fbim.fh-regensburg.de/~saj39122/feisch/Diplomarbeit/theory_eng/steering_eng.html)  
@@ -85,6 +86,7 @@
 [realtime fluid dynmic for game Joe Stam](http://www.dgp.toronto.edu/people/stam/reality/Research/pdf/GDC03.pdf)  
 [wavelet turbulence](http://www.cs.cornell.edu/~tedkim/WTURB/)  
 [jeongmo papers](http://simulation.dongguk.edu/jeongmo/)  
+[Fluid simulation for video Games (intel)](http://software.intel.com/en-us/articles/fluid-simulation-for-video-games-part-3/)  
 
 ## **global illum**  
 [Precomputed Local Radiance Transfer for Real-Time Lighting Design](http://graphics.ucsd.edu/papers/plrt/plrt_siggraph2005.pdf)  
@@ -96,7 +98,6 @@
 [energy in spring](http://www.gamedev.net/topic/313559-energy-in-a-spring-mass-system/)  
 [rk4 spring system](http://www.gamedev.net/topic/387336-rk4-for-a-mass-spring-system/)  
 [single spring system](http://www.myphysicslab.com/spring1.html)  
-[Fluid simulation for video Games (intel)](http://software.intel.com/en-us/articles/fluid-simulation-for-video-games-part-3/)  
 
 ## **collisions**  
 [collisions with ellipsoids](http://www.gamedev.net/page/resources/_/technical/game-programming/general-collision-detection-for-games-using-ell-r1026)  
@@ -205,9 +206,9 @@
 ## **GIT**  
 [cheat sheet](http://www.cheat-sheets.org/saved-copy/git-cheat-sheet.svg)  
 [branching model and workflow](http://nvie.com/posts/a-successful-git-branching-model/)  
-[how to use Git](http://glennstovall.com/blog/2013/03/15/how-i-use-git/) 
+[how to use Git](http://glennstovall.com/blog/2013/03/15/how-i-use-git/)  
 [learn Git branching](http://pcottle.github.io/learnGitBranching/)  
-[Visualizing Git concepts with D3](http://www.wei-wang.com/ExplainGitWithD3/#)   
+[Visualizing Git concepts with D3](http://www.wei-wang.com/ExplainGitWithD3/#)  
 
 ## **PHP**  
 [php snippets](http://www.destrucsaweb.com/commun/liste_ressources.php)  
