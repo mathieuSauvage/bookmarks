@@ -227,7 +227,7 @@
 [Game scripting in Python](https://docs.google.com/viewer?a=v&q=cache:wtRadIzcdR4J:https://learn.it.uts.edu.au/31002/support/dawson02gdc.PDF+&hl=en&pid=bl&srcid=ADGEESgcevYrMwuw7SWJ2jkdMS0CJg-_pW-RS5dJHU8zBdAnvDygn2Vmw11qH1P_MtyZT-yoqJR-E8kf3TzPJmnM2N9O0OCxTlLvCkdikd2H23v50f9trRiC_OQUVR_QEJ0pC_qbgn-M&sig=AHIEtbSGUZqBGi6rHax8sfX1MTWTWmwoOg)  
 
 ## **OSX**  
-[command line cheat sheet](http://www.pixelbeat.org/cmdline.html) 
+[command line cheat sheet](http://www.pixelbeat.org/cmdline.html)  
 [Rsync sync 2 ways](http://stackoverflow.com/questions/2936627/two-way-sync-with-rsync)   
 
 ## **regular expression**  
