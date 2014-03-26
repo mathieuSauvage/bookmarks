@@ -166,6 +166,7 @@
 ## **C++**  
 [64bits dev with visual C++](http://gilles-vollant.developpez.com/visual-cpp/sdk64vs2005/)  
 [using ressource in program](http://www.gamedev.net/page/resources/_/technical/game-programming/game-programming-genesis-part-ii-using-resour-r1240)  
+[Game programming patterns](http://gameprogrammingpatterns.com/index.html)  
 
 ## **system**  
 [recupere ip par batch windows](http://www.ericphelps.com/batch/samples/ip.txt)  
