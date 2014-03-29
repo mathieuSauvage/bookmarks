@@ -291,6 +291,7 @@
 [Square Visualworks](http://www.square-enix.com/jp/recruit/career/job/game/vw_index.html)  
 [Omnibus](http://www.omnibusjp.com/#/recruit)  
 [Marza](http://www.marza.com/en/recruit/)  
+[ILCA](http://ilca.co.jp/recruit/)  
 
 ## **website CMS**  
 [scriptogr](http://scriptogr.am/)  
