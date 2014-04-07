@@ -142,6 +142,7 @@
 [Dual contour paper](http://www.frankpetterson.com/publications/dualcontour/dualcontour.pdf)  
 [Noise functions for terrain](http://accidentalnoise.sourceforge.net/examples.html)  
 [Ressources multiples techniques](http://www.iquilezles.org/www/index.htm)  
+[Let's make a Voxel engine](https://sites.google.com/site/letsmakeavoxelengine/)  
 
 ## **polygonal libraries**  
 [GTS](http://www.ri.cmu.edu/research_project_detail.html?project_id=620&menu_id=261)  
