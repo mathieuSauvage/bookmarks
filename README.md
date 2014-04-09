@@ -145,6 +145,7 @@
 [Let's make a Voxel engine](https://sites.google.com/site/letsmakeavoxelengine/)  
 [efficient sparse voxel octrees](https://code.google.com/p/efficient-sparse-voxel-octrees/)  
 [Realtime Voxel blog](http://realtimevoxels.blogspot.jp/)  
+[Voxel Quest how does it work](http://www.voxelquest.com/1/post/2014/04/how-does-it-work.html)  
 
 ## **polygonal libraries**  
 [GTS](http://www.ri.cmu.edu/research_project_detail.html?project_id=620&menu_id=261)  
