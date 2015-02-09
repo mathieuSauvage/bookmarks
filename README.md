@@ -305,3 +305,7 @@
 
 ## **japanese life things**  
 [CV pdf](http://www.jobci.com/download/)  
+
+## **Space Infos**  
+[the Ultimate guide to black holes](https://www.youtube.com/watch?v=Z3U0vjSUhOA&feature=youtu.be)  
+[the Fermi paradox](http://waitbutwhy.com/2014/05/fermi-paradox.html)  
