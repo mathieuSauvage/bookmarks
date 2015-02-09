@@ -275,6 +275,9 @@
 ## **maya**  
 [vertex cache system script](https://sites.google.com/site/adamvanner/scripts-and-tools/maya-world-space-mesh-cache)  
 
+## **houdini**  
+[texture flow](http://www.gerbertgosch.com/#!rndtextureflowpt1/c1gz5)  
+
 ## **effects**  
 [cgsociety nuke explosion thread](http://forums.cgsociety.org/showthread.php?f=86&t=757114&page=8&pp=15)  
 [cgsociety Fluid Effect versus Fume thread](http://forums.cgsociety.org/showthread.php?f=86&t=741591&page=12&pp=15)  
