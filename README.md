@@ -1,5 +1,5 @@
 ## **papers sources**  
-[nvidia matthias mueller](Nvidia Fluid http://www.matthiasmueller.info/)  
+[nvidia matthias mueller Nvidia Fluid](http://www.matthiasmueller.info/)  
 [visual media lab papers](http://vml.kaist.ac.kr/research.html)  
 [computer graphic lab of zurich](http://graphics.ethz.ch/publications/papers/papers.php)  
 [kunzhou many interesting researchs](http://kunzhou.net/#renderants)  
