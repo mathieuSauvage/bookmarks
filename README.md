@@ -35,6 +35,7 @@
 [bezier fast algorithm](http://www.niksula.cs.hut.fi/~hkankaan/Homepages/bezierfast.html)  
 [Bezier Curves and Surfaces](http://www.gamedev.net/page/resources/_/technical/graphics-programming-and-theory/bezier-curves-and-surfaces-r1808)  
 [Normal Vector and Curvature](http://www.cs.mtu.edu/~shene/COURSES/cs3621/NOTES/curves/normal.html)  
+[Paul Bourke interpolation](http://paulbourke.net/miscellaneous/interpolation/)  
 
 ## **steering behavior, crowd**  
 [Steering Behaviors basics](http://fbim.fh-regensburg.de/~saj39122/feisch/Diplomarbeit/theory_eng/steering_eng.html)  
