@@ -280,6 +280,7 @@
 ## **houdini**  
 [texture flow](http://www.gerbertgosch.com/#!rndtextureflowpt1/c1gz5)  
 [Tokeru CGwiki](http://www.tokeru.com/cgwiki/index.php?title=Main_Page)  
+[jurajTomori] (https://jurajtomori.wordpress.com)
 
 ## **effects**  
 [cgsociety nuke explosion thread](http://forums.cgsociety.org/showthread.php?f=86&t=757114&page=8&pp=15)  
