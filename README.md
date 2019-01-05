@@ -50,7 +50,7 @@
 [hand tracking](http://www.ri.cmu.edu/research_project_detail.html?project_id=620&menu_id=261)  
 
 ## **cg algo**  
-[tutorials papers and demo code for various cg things](http://www.iquilezles.org/www/index.htm)  
+[iquilezles.org super tutorials papers and demo code for various cg things](http://www.iquilezles.org/www/index.htm)  
 [Dictionary of Algorithms and Data Structures](http://xlinux.nist.gov/dads/)  
 [FAQ CG](http://www.faqs.org/faqs/graphics/algorithms-faq/)  
 [Provably Good Surface Sampling and Approximation](http://graphics.stanford.edu/courses/cs468-05-winter/Papers/Oudot_Boissonnat/oudot_boissonnat_SGP.pdf)  
